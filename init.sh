@@ -17,3 +17,4 @@
 
 
 sh ./init/readme.sh
+sh ./init/license.sh
