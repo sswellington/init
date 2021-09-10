@@ -19,3 +19,4 @@
 sh ./init/readme.sh
 sh ./init/license.sh
 sh ./init/gitignore.sh
+sh ./init/folder.sh
