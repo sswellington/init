@@ -13,7 +13,11 @@
 # ~~~
 
 
+# install init
 sh ./.init/readme.sh
 sh ./.init/license.sh
 sh ./.init/gitignore.sh
 sh ./.init/folder.sh
+
+# rm init
+rm -r .init & rm init.sh
