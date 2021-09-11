@@ -10,4 +10,4 @@ echo "# Init: Git Ignore
 
 .idea" > .gitignore
 
-sh ./init/gitignore/vscode.sh
+sh ./.init/gitignore/vscode.sh

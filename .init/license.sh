@@ -3,4 +3,4 @@
 
 touch LICENSE
 
-sh ./init/license/mit.sh
+sh ./.init/license/mit.sh

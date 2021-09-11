@@ -11,12 +11,9 @@
 # ~~~bash
 #   ./init.sh
 # ~~~
-#
-# Resultado do script será a configuração de:
-# * README.md
 
 
-sh ./init/readme.sh
-sh ./init/license.sh
-sh ./init/gitignore.sh
-sh ./init/folder.sh
+sh ./.init/readme.sh
+sh ./.init/license.sh
+sh ./.init/gitignore.sh
+sh ./.init/folder.sh
